@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/28 20.00.00.000.794,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 01.00.00.000.261,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 01.00.00.000.029,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.522,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.476,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\udashboard.dfm=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.536,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\ulogin.pas=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.536,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\ulogin.dfm=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.113,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\project_reservasi_hotel.dproj=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.476,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\udashboard.pas=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/26 15.00.00.000.960,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 19.35.25.250,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 19.35.38.320,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\ukamar.pas=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 19.35.38.320,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\ukamar.dfm=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.dfm</Transaction>
+    <Transaction>2023/01/29 20.14.42.175,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 20.15.08.121,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\upengunjung.pas=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 20.15.08.121,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\upengunjung.dfm=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.dfm</Transaction>
+    <Transaction>2023/01/29 20.25.36.174,=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 20.26.02.987,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\utransaksi.pas=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.pas</Transaction>
+    <Transaction>2023/01/29 20.26.02.988,C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\utransaksi.dfm=C:\Users\dimas\Documents\Embarcadero\Studio\Projects\Project Big\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
